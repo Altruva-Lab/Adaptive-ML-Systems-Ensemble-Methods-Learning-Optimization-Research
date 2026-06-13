@@ -48,6 +48,17 @@ The project focuses on:
 
 ---
 
+# Research Structure
+
+This repository is organized into **independent research projects**, each exploring specific ML topics with dedicated datasets, experiments, and documentation.
+
+Current researches:
+- [Research 001: Automated Feature Engineering in ML Pipelines](research_001_automated-feature-engineering/README.md) — Feature selection, representation learning, and automated engineering for structured data
+
+See [researches.md](researches.md) for a complete index.
+
+---
+
 # Research Areas
 
 Adaptive ML Systems explores topics including:
